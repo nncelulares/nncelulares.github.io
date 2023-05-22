@@ -28,7 +28,7 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 main {
-    background: url(../html/images/bg.jpg);
+    background: url(../images/bg.jpg);
     height: 92vh;
 }
 .nav-list {
